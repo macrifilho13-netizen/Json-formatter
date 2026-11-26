@@ -15,7 +15,6 @@ Formatting and parsing take place in the browser. The application does not inclu
 - **Format and parse JSON:** parses the input and serializes valid JSON with the selected indentation.
 - **Automatic formatting:** attempts to refresh the formatted output after a 500 ms pause in editing.
 - **Explicit validation feedback:** the **Format JSON** action reports parsing errors for invalid input.
-- **Indentation options:** supports two spaces, four spaces and tabs.
 - **Monaco Editor:** syntax-aware JSON editing in the input and output panes; the output pane is read-only.
 - **Local file input:** open a `.json` file with the file picker or drag and drop it onto the input pane.
 - **Copy and download:** copy the formatted result to the clipboard or download it as `formatted.json`.

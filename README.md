@@ -112,13 +112,6 @@ Vite writes the production files to `dist/`. Preview the build locally with:
 npm run preview
 ```
 
-## Planned improvements
-
-- Add automated unit and browser tests
-- Improve accessibility checks and keyboard workflow coverage
-- Add deployment and analytics configuration after the hosting setup is selected
-- Replace the temporary Buy Me a Coffee URL when the support account is created
-
 ## Development note
 
 AI tools were used to assist with parts of the implementation, while the project also served as a practical study of TypeScript.

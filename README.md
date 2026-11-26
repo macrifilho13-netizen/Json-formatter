@@ -21,7 +21,6 @@ Formatting and parsing take place in the browser. The application does not inclu
 - **Copy and download:** copy the formatted result to the clipboard or download it as `formatted.json`.
 - **Theme preference:** dark and light themes are available; the selected theme is saved in browser local storage.
 - **Expandable usage guide:** includes basic instructions and FAQs in a native disclosure element.
-- **Responsive layout:** the two editor panes sit side by side on wider screens and stack on narrower screens.
 
 ## Technology stack
 

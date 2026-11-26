@@ -105,14 +105,10 @@ For a Cloudflare Pages project connected to this repository, use these settings:
 - **Build command:** `npm run build`
 - **Build output directory:** `dist`
 
-## Privacy
-
-The application parses and formats JSON in the visitor's browser. The current implementation does not send the JSON input to an application backend.
-
 ## Screenshots
 
 Screenshots can be added here after the deployed interface and mobile layout have been reviewed.
 
 ## Development note
 
-AI-assisted tools were used during development. The implementation and its behavior should be reviewed and tested as the project evolves.
+AI tools were used to assist with parts of the implementation, but the project served as a study of TypeScript.

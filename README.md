@@ -10,7 +10,7 @@ A simple and modern browser-based tool to format, validate and inspect JSON.
   <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-## ✨ Features
+## Features
 
 - **JSON Formatting:** automatically formats valid JSON with customizable indentation.
 - **JSON Validation:** identifies invalid JSON and displays parsing errors.
@@ -20,7 +20,7 @@ A simple and modern browser-based tool to format, validate and inspect JSON.
 - **Dark & Light Themes:** remembers your preferred theme.
 - **Responsive Interface:** designed for convenient use across different screen sizes.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -30,7 +30,7 @@ A simple and modern browser-based tool to format, validate and inspect JSON.
 | Monaco Editor | Code editing experience |
 | CSS3 | Layout, styling and themes |
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 
@@ -63,7 +63,7 @@ npm.cmd install
 npm.cmd run dev
 ```
 
-## 📖 Usage
+## Usage
 
 1. Paste JSON into the input editor or open a local `.json` file.
 2. Choose the indentation style: 2 spaces, 4 spaces or tabs.
@@ -72,7 +72,7 @@ npm.cmd run dev
 5. Use **Copy** or **Download** to export the formatted result.
 6. Select **Clear** to reset both editors.
 
-## 📦 Production Build
+## Production Build
 
 Generate the optimized production files:
 
@@ -87,7 +87,3 @@ To preview the production build locally:
 ```bash
 npm run preview
 ```
-
-## 🔒 Privacy
-
-JSON is processed directly in the browser. The application does not send input data to a project-specific backend or store JSON content on a server. Theme preferences are saved locally using browser `localStorage`.

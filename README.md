@@ -113,12 +113,6 @@ The application parses and formats JSON in the visitor's browser. The current im
 
 Screenshots can be added here after the deployed interface and mobile layout have been reviewed.
 
-## Planned improvements
-
-- Add automated tests for formatting, validation and file handling.
-- Expand accessibility and responsive-layout testing.
-- Add deployment and performance checks.
-
 ## Development note
 
 AI-assisted tools were used during development. The implementation and its behavior should be reviewed and tested as the project evolves.

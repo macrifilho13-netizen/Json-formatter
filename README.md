@@ -80,8 +80,6 @@ Start the development server:
 npm run dev
 ```
 
-Open the local address printed by Vite, usually `http://localhost:5173`.
-
 On Windows PowerShell, use `npm.cmd` if the execution policy blocks the npm PowerShell shim:
 
 ```powershell

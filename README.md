@@ -86,15 +86,6 @@ npm.cmd install
 npm.cmd run dev
 ```
 
-## Usage
-
-1. Paste JSON into the input editor or open a local `.json` file
-2. Choose 2 spaces, 4 spaces or tabs for indentation
-3. Valid JSON is formatted automatically after a short pause
-4. Select **Format JSON** to validate the current input and show parsing errors
-5. Use **Copy** or **Download** to export the formatted result
-6. Select **Clear** to reset both editors
-
 ## Production build
 
 Create an optimized production build:

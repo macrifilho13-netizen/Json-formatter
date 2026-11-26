@@ -83,21 +83,8 @@ On Windows PowerShell, use `npm.cmd` if the execution policy blocks the npm Powe
 
 ```powershell
 npm.cmd install
-npm.cmd run dev
-```
-
-## Production build
-
-Create an optimized production build:
-
-```bash
 npm run build
-```
-
-Vite writes the production files to `dist/`. Preview the build locally with:
-
-```bash
-npm run preview
+npm.cmd run dev
 ```
 
 ## Development note

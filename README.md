@@ -64,7 +64,6 @@ json-formatter/
 
 - Node.js 22 or later
 - npm
-- A modern browser
 
 ## Installation
 
